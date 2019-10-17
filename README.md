@@ -33,7 +33,7 @@ ferris-says = "0.1"
 
 # Using ferries_says
 
-[src\main.rs](main.rs) - Add Dependecies
+[main.rs](src\main.rs) - Add Dependecies
 
 ```
 extern crate ferris_says;
